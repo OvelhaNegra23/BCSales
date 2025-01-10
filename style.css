@@ -1,0 +1,29 @@
+h1 {
+  color: #111;
+  text-align: center;
+}
+body {
+  font: arial;
+}
+div {
+  background: #111;
+  border-radius: 4px;
+  padding: 30px;
+  margin: 30px;
+}
+h2 {
+  color: white;
+}
+span {
+  color: #febe01;
+}
+p {
+  color: #b2b2b2;
+}
+a {
+  color: #332200;
+  background: #febe01;
+  padding: 10px;
+  border-radius: 4px;
+  text-decoration: none;
+}
